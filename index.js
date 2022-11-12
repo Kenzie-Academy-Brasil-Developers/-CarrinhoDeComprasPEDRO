@@ -69,7 +69,6 @@ button.innerHTML = "Finalizar"
 section.append(total, somaTotal, button)
 
 
-console.log(body)
 
 
 

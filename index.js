@@ -34,7 +34,7 @@ function soma(arr) {
 soma(listaDeProdutos)
 
 
-let body = document.createElement("body")
+let body = document.querySelector("body")
 
 let main = document.createElement("main")
 body.appendChild(main)
